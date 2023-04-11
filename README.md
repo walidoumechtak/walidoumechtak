@@ -1,4 +1,4 @@
-<a align="center" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgc1ekrg011108lbquxzgmj4/stats?cursusId=21&coalitionId=77" alt="woumecht's 42 stats" /></a>
+<a align="center" href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/clgc1ekrg011108lbquxzgmj4/stats?cursusId=21&coalitionId=77" alt="woumecht's 42 stats" /></a>
 <h1 align="center">Hi 👋, I'm Walid OUMECHTAK</h1>
 <h3 align="center">Fullstack Developer And 1337 Student From Morocco</h3>
 
