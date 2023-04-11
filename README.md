@@ -5,7 +5,7 @@
 
 <a align="center" href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/clgc1ekrg011108lbquxzgmj4/stats?cursusId=21&coalitionId=77" alt="woumecht's 42 stats" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidoumechtak&show_icons=true&locale=en&layout=compact" alt="walidoumechtak" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidoumechtak&show_icons=true&locale=en&layout=compact" alt="walidoumechtak" /></p>
 
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidoumechtak&show_icons=true&locale=en" alt="walidoumechtak"></p>
