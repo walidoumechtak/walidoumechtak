@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Walid OUMECHTAK</h1>
 <h3 align="center">Senior Fullstack Developer And <b>1337</b> Student</h3>
 
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidoumechtak&label=Profile%20views&color=0e75b6&style=flat" alt="walidoumechtak" /> </p>
 
 <a align="center" href="https://github.com/JaeSeoKim/badge42"><img align="center" src="https://badge42.vercel.app/api/v2/clgc1ekrg011108lbquxzgmj4/stats?cursusId=21&coalitionId=77" alt="woumecht's 42 stats" /></a>
+</div>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidoumechtak&show_icons=true&locale=en&layout=compact" alt="walidoumechtak" /></p>
 
