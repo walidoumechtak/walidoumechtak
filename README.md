@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walid OUMECHTAK</h1>
-<h3 align="center">Fullstack Developer And 1337 Student</h3>
+<h3 align="center">Senior Fullstack Developer And <b>1337</b> Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidoumechtak&label=Profile%20views&color=0e75b6&style=flat" alt="walidoumechtak" /> </p>
 
