@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walid OUMECHTAK</h1>
-<h3 align="center">Senior Fullstack Developer And <b>1337</b> Student</h3>
+<h3 align="center">Junior Fullstack Developer And <b>1337</b> Student</h3>
 
 
 <p align="center">
