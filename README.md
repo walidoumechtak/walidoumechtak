@@ -6,7 +6,11 @@
  <img src="https://komarev.com/ghpvc/?username=walidoumechtak&label=Profile%20views&color=0e75b6&style=flat" alt="walidoumechtak" /> </p>
 
 
-<P align="center"><img align="center" src="https://badge42.vercel.app/api/v2/clgc1ekrg011108lbquxzgmj4/stats?cursusId=21&coalitionId=77" alt="woumecht's 42 stats" /></P>
+<div style="width:100%;text-align:center;">
+<a style="text-align: center;" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/woumecht" alt="woumecht's 42 stats" /></a>
+</div>
+
+
   
 
 
