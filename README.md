@@ -4,14 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=walidoumechtak&label=Profile%20views&color=0e75b6&style=flat" alt="walidoumechtak" /> </p>
 
-
-
-<div align="center" style="width:100%;text-align:center;">
-<a style="text-align: center;" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/woumecht" alt="woumecht's 42 stats" /></a>
+<div align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/woumecht" alt="woumecht's 42 stats" /></a>
 </div>
-
-
-
 
 <p align="center"> - 📫 How to reach me **woumecht@gmail.com**</p>
 
